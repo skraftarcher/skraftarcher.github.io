@@ -1,0 +1,25 @@
+name: "Benthic-Ecology-Lab"
+navbar:
+  title: "Archer Benthic Ecology Lab"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Lab Ethics"
+      href: ethics.html
+    - text: "People"
+      href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: pubs.html
+    - text: "Outreach"
+      href: outreach.html
+    - text: "Collaborators"
+      href: collab.html
+    - text: "Prospective Lab Members"
+      href: prospect.html
+output:
+  html_document:
+    theme: yeti
+
+output_dir: "."

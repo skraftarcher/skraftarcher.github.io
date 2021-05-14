@@ -1,0 +1,35 @@
+---
+title: "Our Research"
+---
+<style type="text/css">
+h1.title {
+  font-size: 52px;
+  text-align: center;
+}
+body {
+background-color: #B9F2FE
+}
+</style>
+<br>
+<br>
+<br>  
+
+## **Study systems**  
+
+Biogenic habitats, or habitats formed by living organisms, such as coral reefs, sponge grounds, and seagrass beds are among the most biodiverse ecosystems in the oceans. They provide us with many ecosystem services from food production and natural products chemistry to shoreline protection and storm buffering. They are also among the most impacted systems, suffering from a wide range of anthropogenic and natural stressors that combine to threaten their continued existence. Our lab is lucky enough to work in many such systems, including seagrass beds and Glass Sponge, coral, and oyster reefs.
+
+## **Current Projects**  
+
+### Glass Sponge Reef Ecology  
+
+Because glass sponge reefs are globally rare and easily damaged by human activities (e.g. trawling) there is a strong push to protect these ecosystems. As protection measures are put into place the need to develop effective monitoring programs is increasing. We are using multiple approaches including food webs and community analysis to identify potential indicator species with the goal of developing effective and efficient monitoring methods for these reefs. 
+
+
+### Soundscape Ecology   
+
+Many benthic marine animals, from fish to crustaceans, make sounds. In biogenic habitats all over the world the intensity and complexity of the sounds emanating from a habitat are being linked to the health of the ecosystem- with healthy, more diverse ecosystems being louder and having more complex soundscapes. I am working with a great team of researchers to describe the soundscapes of several ecosystems, determine if we can use passive acoustic recordings to monitor both ecosystem status and fish populations, and assess the intensity and consequences of anthropogenic noise reaching these systems.
+
+### Tropical Nearshore Ecology  
+
+Seagrass beds are an example of an ecosystem structured by the presence of foundation species. Although seagrasses serve as the primary foundation species in these systems, foundation species rarely occur in isolation. Sponges, a common component of seagrass beds, alter the physical environment in many ways, including provisioning of structured habitat. Despite this there is a paucity of knowledge regarding how they may influence the structure of seagrass ecosystems. We have multiple ongoing projects examining the mechanisms underlying how sponges and seagrass influence the structure and function of nearshore systems in the face of multiple stressors.  
+
